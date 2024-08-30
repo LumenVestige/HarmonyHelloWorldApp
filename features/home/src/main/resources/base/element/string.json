@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "home_label",
+      "value": "首页"
+    },
+    {
+      "name": "enablement_title",
+      "value": "MacBook 16 寸"
+    },
+    {
+      "name": "enablement_content",
+      "value": "入手16 英寸MacBook Pro 新机，只需每月RMB 833 起。任选机型或自定配置"
+    },
+    {
+      "name": "hot_products",
+      "value": "热门商品"
+    },
+    {
+      "name": "premium_products",
+      "value": "精选商品"
+    }
+  ]
+}

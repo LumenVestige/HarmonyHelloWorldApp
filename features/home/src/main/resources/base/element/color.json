@@ -1,0 +1,44 @@
+{
+  "color": [
+    {
+      "name": "white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "common_background_color",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "achieve_grey_text_color",
+      "value": "#99000000"
+    },
+    {
+      "name": "achieve_dialog_mask_color",
+      "value": "#66000000"
+    },
+    {
+      "name": "hot_feed_content_color",
+      "value": "#66000000"
+    },
+    {
+      "name": "divider_color",
+      "value": "#0D000000"
+    },
+    {
+      "name": "learning_item_background_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "hmos_article_card_color_white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "theme_font_color",
+      "value": "#182431"
+    },
+    {
+      "name": "article_background_color",
+      "value": "#1AFFFFFF"
+    }
+  ]
+}
